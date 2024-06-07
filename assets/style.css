@@ -1,0 +1,18 @@
+.forecast-card, .todayName {
+    border: 2px solid red;
+    padding: 10px;
+}
+.forecast-card > div {
+    font-size: 20px;
+}
+.humidity {
+    color: blue
+}
+
+.temperature {
+    color: red
+}
+
+.wind {
+    color: green
+}
